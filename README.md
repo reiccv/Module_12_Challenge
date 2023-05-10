@@ -1,4 +1,4 @@
-# Module 12 Challenge
+t# Module 12 Challenge
 
 # Credit Risk Classification
 
@@ -10,7 +10,7 @@ Credit risk poses a classification problem that’s inherently imbalanced. This 
 
 * [Instructions](##instructions)
 
-* [Split the Data into Training and Testing Sets](##split-the-Data-into-Training-and-Testing-Sets)
+* [Split the Data into Training and Testing Sets](##split-the-data-into-training-and-testing-sets)
 
 * [Create a Logistic Regression Model with the Original Data](##create-a-logistic-regression-model-with-the-original-data)
 
