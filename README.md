@@ -7,8 +7,11 @@ Credit risk poses a classification problem that’s inherently imbalanced. This 
 # Table of Contents
 
 -[Imports](#imports)
+
 -[Instructions](##instructions)
+
 -[Split the Data into Training and Testing Sets](###split the data into training and testing sets)
+
 -[Create a Logistic Regression Model with the Original Data](###create a logistic regression model with the original data)
 
 # Imports
