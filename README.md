@@ -10,9 +10,9 @@ Credit risk poses a classification problem that’s inherently imbalanced. This 
 
 -[Instructions](##instructions)
 
--[Split the Data into Training and Testing Sets](###split the Data into Training and Testing Sets)
+-[Split the Data into Training and Testing Sets](##split the Data into Training and Testing Sets)
 
--[Create a Logistic Regression Model with the Original Data](###create a logistic regression model with the original data)
+-[Create a Logistic Regression Model with the Original Data](##create a logistic regression model with the original data)
 
 # Imports
 
@@ -29,7 +29,7 @@ This challenge consists of the following subsections:
 * Predict a Logistic Regression Model with Resampled Training Data 
 
 
-### Split the Data into Training and Testing Sets
+## Split the Data into Training and Testing Sets
 
 Open the starter code notebook and then use it to complete the following steps.
 
@@ -52,7 +52,7 @@ Open the starter code notebook and then use it to complete the following steps.
 
 ![]()
 
-### Create a Logistic Regression Model with the Original Data
+## Create a Logistic Regression Model with the Original Data
 
 Employ your knowledge of logistic regression to complete the following steps:
 
