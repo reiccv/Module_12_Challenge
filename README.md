@@ -1,4 +1,4 @@
-t# Module 12 Challenge
+# Module 12 Challenge
 
 # Credit Risk Classification
 
@@ -80,3 +80,5 @@ Employ your knowledge of logistic regression to complete the following steps:
     * Print the classification report.
 
 ![](https://github.com/reiccv/Module_12_Challenge/blob/main/Resources/images/7.PNG)
+
+Repeat steps to predict a Logistic Regression Model but with Resampled Training Data
